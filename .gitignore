@@ -1,0 +1,10 @@
+# 本機工具鏈與快取，不發布
+src/
+.claude/
+cache/
+*.jsonl
+__pycache__/
+
+# Apps Script 備用版本，不發布
+Code.gs
+index.html.appsscript
